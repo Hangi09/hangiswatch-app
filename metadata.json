@@ -1,0 +1,6 @@
+{
+  "name": "HangisWatch",
+  "description": "A native Android movie and TV streaming application featuring user authentication, ExoPlayer video streaming, watchlist, continue watching history, and an administrative control panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
